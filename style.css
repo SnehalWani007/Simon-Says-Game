@@ -1,0 +1,40 @@
+body {
+    text-align: center;
+}
+
+.btn {
+    height: 200px;
+    width: 200px;
+    border-radius: 20%;
+    border: 10px solid black;
+    margin: 1.5rem;
+}
+
+.btn-container {
+    display: flex;
+    justify-content: center;
+}
+
+.clr-1{
+    background-color: #f99b45;
+}
+
+.clr-2{
+    background-color: #d95980;
+}
+
+.clr-3{
+    background-color: #819ff9;
+}
+
+.clr-4{
+    background-color: #63aac0;
+}
+
+.flash {
+    background-color: white;
+}
+
+.userFlash {
+    background-color: aqua;
+}
